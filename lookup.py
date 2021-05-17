@@ -1,11 +1,11 @@
 # imports flags database
 from data import flags
 
-# initializes two arrays that will store the emoji flags for each name/code
+# initializes two dictonaries that will store the emoji flags for each name/code
 dataCode = {}
 dataName = {}
 
-# fills arrays with flags for each name/code
+# fills dictonaries with flags for each name/code
 for flag in flags:
     dataCode[flag['code']] = flag['emoji']
     dataName[flag['name']] = flag['emoji']
