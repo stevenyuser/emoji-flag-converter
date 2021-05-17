@@ -18,3 +18,5 @@ Usage
 ```
 
 Hope this helps!
+
+Second Python Project 😎
