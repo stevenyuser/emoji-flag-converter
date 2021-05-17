@@ -12,7 +12,7 @@ Usage
 > flagUS = byCode("US")
 > print(flagUS)
 > 🇺🇸
->
+
 > flagCN = byName("China")
 > print(flagChina)
 > 🇨🇳
